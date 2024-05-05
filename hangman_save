@@ -1,0 +1,15 @@
+--- !ruby/object:Hangman
+word: untitled
+display_word:
+- _
+- _
+- _
+- _
+- _
+- _
+- e
+- _
+wrong_letters:
+- a
+- r
+turns_remaining: 5
